@@ -1,0 +1,5 @@
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+celery~=5.2.7
+Flask~=2.2.2
+requests~=2.28.1
